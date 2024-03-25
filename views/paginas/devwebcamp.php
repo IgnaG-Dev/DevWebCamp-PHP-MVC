@@ -11,10 +11,13 @@
             </picture>
         </div>
 
-        <div  class="devwebcamp__contenido">
-            <p <?php aos_animacion(); ?> class="devwebcamp__texto">Aliquam est elit, condimentum a justo vitae, fringilla dignissim tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam quis lorem eget felis dignissim dignissim. Praesent ac lorem convallis, ultrices neque quis, cursus lorem.</p>
-            
-            <p <?php aos_animacion(); ?> class="devwebcamp__texto">Aliquam est elit, condimentum a justo vitae, fringilla dignissim tortor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam quis lorem eget felis dignissim dignissim. Praesent ac lorem convallis, ultrices neque quis, cursus lorem.</p>
+        <div <?php aos_animacion(); ?> class="devwebcamp__contenido">
+            <p class="devwebcamp__texto">
+                Sumérgete en conferencias magistrales impartidas por líderes de la industria, participa en talleres prácticos y aprovecha las oportunidades de networking para expandir tu red profesional.
+            </p>
+            <p class="devwebcamp__texto">
+                Descubre las últimas innovaciones en desarrollo web, diseño de experiencia de usuario, inteligencia artificial, realidad aumentada y mucho más. Únete a la comunidad tecnológica y eleva tu carrera al siguiente nivel.
+            </p>
         </div>
     </div>
 </main>
