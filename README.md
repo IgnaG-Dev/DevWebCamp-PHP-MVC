@@ -61,7 +61,7 @@
 ## Rendimiento ✅
 A continuación te dejamos algunos parametros de rendimiento de la página web utilizando el plugin [LIghthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?pli=1)
 
-![Rendimiento](https://github.com/IgnaG-Dev/DevWebCamp-PHP-MVC/assets/163780789/aaf7e211-f1ed-4320-a502-78ddbeca59da "Rendimiento de AppSalon")
+![Rendimiento](https://github.com/IgnaG-Dev/DevWebCamp-PHP-MVC/assets/163780789/aaf7e211-f1ed-4320-a502-78ddbeca59da "Rendimiento de DevWebCamp")
 
 ## Contribución 📨
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar esta aplicación, por favor abre un issue para discutir los cambios propuestos o envía una pull request.
